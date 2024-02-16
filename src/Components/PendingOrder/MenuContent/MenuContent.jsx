@@ -78,6 +78,7 @@ function MenuContent() {
           </ListItemButton>
         </List>
       </Collapse>
+
       <Collapse in={open} timeout="auto" unmountOnExit>
         <List component="div" disablePadding>
           <ListItemButton sx={{ pl: 6 }}>
@@ -88,6 +89,7 @@ function MenuContent() {
           </ListItemButton>
         </List>
       </Collapse>
+      
       <ListItemButton>
         <ListItemIcon>
         <AdminPanelSettingsIcon sx={{color:'white'}}/>

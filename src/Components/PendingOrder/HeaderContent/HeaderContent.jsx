@@ -187,7 +187,7 @@ export default function PrimarySearchAppBar() {
             />
             </Stack>
             
-            <Typography sx={{pl:1}}>
+            <Typography sx={{pl:1,fontSize:13}}>
               pramuditha sadeepa<br/><center>Assistant</center>
             </Typography>
 
