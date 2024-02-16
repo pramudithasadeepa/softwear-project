@@ -1,0 +1,32 @@
+.body1{
+    background-color:white;
+    height: 85vh;
+}
+
+
+#p_order{
+    padding-left:2%;
+    font-size:xx-large;
+    font-weight: bold;
+}
+
+#tr1{
+    color:black;
+    font-weight: bold;
+}
+
+#td1{
+    color: red;
+}
+
+
+#th1{
+    color:black;
+    font-weight: bold;
+    background-color:#e3f2fd;
+    text-align:justify;
+}
+
+
+
+

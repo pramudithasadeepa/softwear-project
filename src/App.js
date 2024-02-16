@@ -1,9 +1,12 @@
+import React from 'react';
+import './App.css';
+import PendingOrder from './Pages/PendingOrder/PendingOrder';
 
 function App() {
   return (
-    <div>
-     <h1>Hello Calisto</h1>
-    </div>
+   <div>
+      <PendingOrder/>
+      </div>
   );
 }
 
